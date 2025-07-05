@@ -1,0 +1,1 @@
+pip install mediapipe pygame opencv-python numpy requests
